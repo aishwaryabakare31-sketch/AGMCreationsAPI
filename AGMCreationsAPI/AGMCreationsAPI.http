@@ -1,0 +1,6 @@
+@AGMCreationsAPI_HostAddress = http://localhost:5171
+
+GET {{AGMCreationsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
