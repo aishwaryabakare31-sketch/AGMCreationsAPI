@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="AGMCreationsAPI/AGMCreationsAPI.csproj" />
+  <Project Path="HomeCL/HomeCL.csproj" Id="4031eab4-c485-45b6-a647-445999c9c201" />
+  <Project Path="LoginCL/LoginCL.csproj" Id="d6b6b896-c209-47ee-b905-345a77ca9f90" />
 </Solution>
